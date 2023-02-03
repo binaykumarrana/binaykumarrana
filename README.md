@@ -2,4 +2,3 @@
 - 👀 I’m interested in building solutions for common man's problem which can bring a change in their life.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on projects that is B2C & programming in Flutter! 
-- 📫 Want to connect with me, reach me at binaykumarrana@gmai.com
